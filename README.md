@@ -1,7 +1,7 @@
 test for git command
-and some configurations
+and se conigurations
 fd
-fdasfdas
+fdasas
 
 
 
