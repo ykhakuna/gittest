@@ -4,9 +4,7 @@ fd
 
 <<<<<<< HEAD
 gdsjlkjgljagdj
-new test1
 =======
-bug test 1
 >>>>>>> bug
 
 
