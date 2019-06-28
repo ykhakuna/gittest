@@ -2,7 +2,11 @@ test for git command
 and se conigurations
 fd
 
+<<<<<<< HEAD
 gdsjlkjgljagdj
-master 1
+new test1
+=======
+bug test 1
+>>>>>>> bug
 
 
